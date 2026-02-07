@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! 
+## Welcome to my Github page
+## I'm Thenewtechguy
 
 <!--
 **Thenewtechgu/thenewtechgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
