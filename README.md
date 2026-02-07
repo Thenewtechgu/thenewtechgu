@@ -1,18 +1,11 @@
-## Hi! 
-## Welcome to my Github page
-## I'm Thenewtechguy
+# Welcome to my Github page
 
-<!--
-**Thenewtechgu/thenewtechgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Static Badge" src="https://img.shields.io/badge/Thenewtechguy-Vietnam-red?style=for-the-badge&logoColor=red&logoSize=1">
 
-Here are some ideas to get you started:
+## These are projects that I'm proud of:
+### Avian: This is a RP2350B based flight controler <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Thenewtechgu/avian">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
