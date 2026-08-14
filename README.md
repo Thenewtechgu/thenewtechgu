@@ -1,6 +1,6 @@
-# Welcome to my Github page
+# Welcome to my Github lair
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Thenewtechguy-Vietnam-red?style=for-the-badge&logoColor=red&logoSize=1">
+I'm a teenager from Vietnam who likes to design and build electronic projects
 
 # My coding/design heat map!
 
@@ -8,7 +8,9 @@
 
 
 ## These are projects that I'm proud of:
-### Avian: This is a RP2350B based flight controler <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Thenewtechgu/avian">
+### Avian ( In theory ): This is a RP2350B based flight controler 
+### NEVAS ( In Development ): A Flight controller stack using the ATSAME70Q21 as the Main FMU and the STM32F723IE as the backup FMU. Check it out!
+### Keyey: A 75% percent keyboard using the RP2040 and QMK firmware
 
 
 
